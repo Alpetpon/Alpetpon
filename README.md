@@ -1,15 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Алексей%20Пономарев&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Python%20·%20Go%20·%20Microservices&descAlignY=60&descAlign=50&width=100%)
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-    <a href="https://t.me/username">
-      <img src="https://img.icons8.com/fluency/96/telegram-app.png" alt="Telegram" width="60" height="60" style="border-radius: 10px;"/>
-    </a>
-    <a href="https://alexey-ponomarev.ru">
-      <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" alt="Сайт" width="60" height="60" style="border-radius: 10px;"/>
-    </a>
-  </div>
-</div>
+<p align="center">
+   <a href="https://t.me/username"><img width="60" src="https://img.icons8.com/fluency/96/000000/telegram-app.png"/></a>
+   <a href="https://github.com/username"><img width="60" src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000"/></a>
+ </p>
 
 ---
 
